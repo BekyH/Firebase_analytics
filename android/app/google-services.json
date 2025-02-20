@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963521017580",
+    "project_id": "fanalytics-bced2",
+    "storage_bucket": "fanalytics-bced2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963521017580:android:2d75b81e8423a39f6257c9",
+        "android_client_info": {
+          "package_name": "com.example.firebase_analytices"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6u19dxSfwe_r92Rc6NAfveycpy0-iOlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
